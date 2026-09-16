@@ -4,13 +4,16 @@
 
 Бартендер · Бариста · Веб хөгжүүлэгч · Улаанбаатар.
 
-Эх хуудасын хуучин хувилбар `Margad.` репо дээр байсан. Энэ repo нь шинэчилсэн хувилбар (төсөл, GitHub, SEO).
+## Холбоос
 
-## Юу нэмэгдсэн
+- Profile: [github.com/XalMorak](https://github.com/XalMorak)
+- Борлуулалт: [borluulalt-xalmorak.vercel.app](https://borluulalt-xalmorak.vercel.app)
+- Xal'Morak Hub: [github.com/XalMorak/xalmorak-hub](https://github.com/XalMorak/xalmorak-hub)
+
+## Юу байна
 
 - Мэргэжлийн мөр: бартендер · бариста · веб хөгжүүлэгч
 - Төслүүд: Борлуулалт, Xal'Morak Hub, GitHub
-- GitHub болон борлуулалт аппын холбоос
 - SEO meta (хуваалцахад)
 
-Шууд `index.html`-ийг энэ repo руу нэмэх эсвэл `Margad.` руу хуулаарай.
+Хуучин хувилбар `Margad.` repo дээр.
