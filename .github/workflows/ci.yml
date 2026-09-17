@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Required files
+        run: |
+          test -f index.html
+          test -f README.md
+      - name: Basic HTML sanity
+        run: |
+          grep -qi '<html' index.html
+          grep -qi '</html>' index.html
+          grep -qi '<title' index.html
